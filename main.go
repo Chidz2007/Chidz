@@ -21,8 +21,8 @@ const (
 	appVersionName = "Psiphon Pro Go"
 	appVersionCode = "1.3.210109"
 
-	copyrightYear   = "2020"
-	copyrightAuthor = "Aztec Rabbit"
+	copyrightYear   = "2024"
+	copyrightAuthor = "Server Chidz"
 )
 
 var (
